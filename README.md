@@ -2,6 +2,8 @@
 
 Is this thing on?
 
+![an electrical box decorated like a shrub sitting in front of a shrub](https://log.jonathanbell.ca/pictures/IMG_20200401_070827.jpg)
+
 <!--
 **jonathanbell/jonathanbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
